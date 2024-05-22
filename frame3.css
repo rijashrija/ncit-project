@@ -1,0 +1,14 @@
+.container-img img{
+    width: 30px;
+    height: 30px;
+    display: block;
+    align-items: space-between;
+margin-bottom: 65px;
+}
+.container{
+    display:flex;
+}
+.container-text{
+    margin-left: 20px;
+    
+}
